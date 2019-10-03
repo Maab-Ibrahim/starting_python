@@ -1,0 +1,8 @@
+## Exploring data
+- using Jupyter Lab and Pandas
+
+Author: Maab Ibrahim
+start date: 03-10-2019
+
+see LICENCE.md for licence attached to this code
+
